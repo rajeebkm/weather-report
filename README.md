@@ -1,6 +1,6 @@
 # Weather-Report
 
-Github page:  https://rajeebkm.github.io/weather-application
+Github page:  https://rajeebkm.github.io/weather-report/
 
 # Getting Started with Create React App
 
@@ -78,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ``` https://openweathermap.org/```
 
 ## Check Github pages
-``` https://rajeebkm.github.io/weather-application ```
+https://rajeebkm.github.io/weather-report/
