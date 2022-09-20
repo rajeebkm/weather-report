@@ -1,6 +1,6 @@
 # Weather-Report
 
-Github page: ``` https://rajeebkm.github.io/weather-application ```
+Github page:  https://rajeebkm.github.io/weather-application
 
 # Getting Started with Create React App
 
