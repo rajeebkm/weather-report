@@ -1,12 +1,10 @@
 Weather-Report
 Link to website: https://weathersbycity.netlify.app/
 
-<<<<<<< HEAD
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 =======
 Link to website: https://weathersbycity.netlify.app/
->>>>>>> fc460313afd9447049e4437c5206de084e5c7dac
 
 Available Scripts
 In the project directory, you can run:
